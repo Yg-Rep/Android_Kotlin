@@ -1,2 +1,3 @@
 # Android_Kotlin
-forMyStudy
+Hello! Kotlin! 
+
